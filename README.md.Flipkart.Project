@@ -1,0 +1,37 @@
+# Flipkart Sales Analysis Using Excel
+
+## Project Overview
+Analyzed Flipkart sales data using Microsoft Excel to identify revenue trends, product performance, regional sales, and customer payment preferences.
+
+## Project Objectives
+- Analyze revenue and profit performance.
+- Identify top-performing product categories.
+- Compare sales across different regions.
+- Understand customer payment preferences.
+- Generate actionable business insights.
+
+## Dataset Details
+The dataset contains sales transaction details, including:
+- Product and category
+- Region
+- Revenue and profit
+- Quantity sold
+- Payment method
+
+## Tools Used
+- Microsoft Excel
+- PivotTables and Pivot Charts
+- Data Cleaning
+- Dashboard and KPI Analysis
+
+## Key Insights
+- **Total Revenue:** ₹11,37,168.36
+- **Total Profit:** ₹2,25,354.67
+- **Total Units Sold:** 764
+- **Top Revenue Category:** Clothing
+
+## Skills Demonstrated
+Excel, Data Analysis, Data Visualization, Dashboard Reporting, and Business Insights.
+
+## Author
+Nikita Jadhav | Aspiring Data Analyst
